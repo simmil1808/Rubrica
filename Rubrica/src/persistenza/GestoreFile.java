@@ -86,6 +86,7 @@ public class GestoreFile {
                 String cognome = reader.readLine();
                 String indirizzo = reader.readLine();
                 String telefono = reader.readLine();
+
                 int eta = Integer.parseInt(reader.readLine());
 
                 Persona persona = new Persona(nome, cognome, indirizzo, telefono, eta);
