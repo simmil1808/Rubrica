@@ -40,5 +40,6 @@ Questo creerà:
 
 	3. CONFIGURAZIONE CREDENZIALI
 
-Apri il file `credenziali_database.properties` e modifica i valori così:
+Apri il file `credenziali_database.properties` e modifica i valori,
+dovrebbe bastare solo la password:
 
